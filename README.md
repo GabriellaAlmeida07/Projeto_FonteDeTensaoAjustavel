@@ -4,6 +4,7 @@ Projeto da disciplina SSC0180 - Eletrônica para Computação, ministrada pelo p
 fonte reficadora capaz de transformar corrente alternada de tensão, em corrente contínua, com valor de tensão ajustável entre 3 e 12 volts.
 
 
+
 ## Componentes:
 
 | Componente             |  Quantidade   | Especificações    | Valor Unitário |
@@ -23,6 +24,9 @@ fonte reficadora capaz de transformar corrente alternada de tensão, em corrente
 | Fusível                | 2             | 20 AG 0.1A        | R$ 1,10        |
 | Varistor               | 1             | 150VAC 7D 241K    | R$ 1,50        |
 |**Total**               |               |                   | **R$ 35,69**   |
+
+
+
 
 
 ## Sobre os componentes
@@ -53,11 +57,17 @@ O transistor tem capacidade de controle da intensidade da corrente elétrica que
 ### Potenciômetro:
 É um tipo de resistor que permite controlar a tensão entre 3 a 12V, no nosso caso.
 
+
+
 ## Incluir foto do circuito na protoboard
+
+
 
 ## Circuito Falstad
 [Circuito Falstad](https://tinyurl.com/2bdvvonj)
 ![circuito](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/d42b11c0-0516-4a29-bf5d-487cf6339651)
+
+
 
 
 ## Projeto do Esquemático EAGLE
@@ -65,8 +75,13 @@ O transistor tem capacidade de controle da intensidade da corrente elétrica que
 ![Captura de tela 2024-06-18 152255](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/972a8a0c-1e4a-4238-b6b5-66bf73dc3e55)
 
 
+
+
 ## Projeto PCB EAGLE
 ![Captura de tela 2024-06-18 151144](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/2245b80e-6732-4328-9988-64db65348ff2)
+
+
+
 
 ## Incluir o video
 
