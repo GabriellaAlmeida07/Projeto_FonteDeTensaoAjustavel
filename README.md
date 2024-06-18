@@ -25,10 +25,50 @@ fonte reficadora capaz de transformar corrente alternada de tensão, em corrente
 |**Total**               |               |                   | **R$ 35,69**   |
 
 
+## Sobre os componentes
+### Transformador:
+A fonte de corrente alternada (tomada) fornece uma ddp de 127V, por isso é necessário o uso do transformador que é capaz de baixar a tensão de 110 volts para 12 volts.
+
+### Fusível:
+O fusível é usado com o intuito de "proteger" o circuito de correntes elétricas excessivas, visto que se houver sobrecarga, ele irá interromper o circuito.
+
+### Ponte de diodos:
+Formada por quatro diodos retificadores, é responsável por permitir que uma corrente alternada seja convertida em corrente contínua.
+
+### Varistor:
+Também usado para maior segurança ao circuito, pois quando uma tensão excessiva é aplicada ao varistor, sua resistência diminui rapidamente, permitindo que ele conduza a corrente elétrica e desvie a energia extra para a terra ou para a fonte de alimentação.
+
+### Capacitor:
+Responsável por controlar a ondulação da tensão no circuito, durante a alternância dos ciclos de corrente elétrica, o capacitor armazena energia (quando a tensão está alta) e libera quando a tensão cai.
+
+### Resistor:
+O resistor limita o fluxo de corrente elétrica em um circuito, impedindo que a corrente ultrapasse o limite estabelecido por cada componente.
+
+### Diodo Zener:
+Se comporta como um diodo normal, porém quando a tensão excede a tensão Zener, ele deixará "passar" somente a tensão limite, que no caso será 12V.
+
+### Transistor:
+O transistor tem capacidade de controle da intensidade da corrente elétrica que passa por ele, sendo capaz de limitá-la, amplificá-la ou, até mesmo, atenuá-la.
+
+### Potenciômetro:
+É um tipo de resistor que permite controlar a tensão entre 3 a 12V, no nosso caso.
+
+## Incluir foto do circuito na protoboard
+
 ## Circuito Falstad
 [Circuito Falstad](https://tinyurl.com/2bdvvonj)
 ![circuito](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/d42b11c0-0516-4a29-bf5d-487cf6339651)
 
+
+## Projeto do Esquemático EAGLE
+
+![Captura de tela 2024-06-18 152255](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/972a8a0c-1e4a-4238-b6b5-66bf73dc3e55)
+
+
+## Projeto PCB EAGLE
+![Captura de tela 2024-06-18 151144](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/2245b80e-6732-4328-9988-64db65348ff2)
+
+## Incluir o video
 
 
 ## Colaboradoes:
