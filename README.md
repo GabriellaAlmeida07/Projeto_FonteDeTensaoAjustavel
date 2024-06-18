@@ -21,6 +21,7 @@ fonte reficadora capaz de transformar corrente alternada de tensão, em corrente
 | Jumper Macho           | 10            | 20cm              | R$ 0,70    |
 | Fusível                | 2             | 20 AG 0,1A        | R$ 1,10    |
 | Varistor               | 1             | 150VAC 7D 241K    | R$ 1,50    |
+|**Total**               |                        R$ 35,69                |
 
 
 
