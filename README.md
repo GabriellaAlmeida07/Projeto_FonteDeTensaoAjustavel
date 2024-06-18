@@ -3,6 +3,7 @@
 Projeto da disciplina SSC0180 - Eletrônica para Computação, ministrada pelo professor Eduardo do Valle Simoes, com o objetivo de projetar uma
 fonte reficadora capaz de transformar corrente alternada de tensão, em corrente contínua, com valor de tensão ajustável entre 3 e 12 volts.
 
+
 ## Componentes:
 
 | Componente             |  Quantidade   | Especificações    | Valor Unitário |
@@ -23,13 +24,18 @@ fonte reficadora capaz de transformar corrente alternada de tensão, em corrente
 | Varistor               | 1             | 150VAC 7D 241K    | R$ 1,50        |
 |**Total**               |               |                   | **R$ 35,69**   |
 
+
 ## Circuito Falstad
 [Link circuito Falstad](https://tinyurl.com/2bdvvonj)
 ![circuito](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/d42b11c0-0516-4a29-bf5d-487cf6339651)
 
+
+
 ## Colaboradoes:
 Gabriella Almeida - 15528121
+
 Samuel Sandoval Bonachela - 13686282
+
 Joao Victor De Bortoli Prado - 13672071
 
 
