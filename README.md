@@ -4,7 +4,6 @@ Projeto da disciplina SSC0180 - Eletrônica para Computação, ministrada pelo p
 fonte reficadora capaz de transformar corrente alternada de tensão, em corrente contínua, com valor de tensão ajustável entre 3 e 12 volts.
 
 
-
 ## Componentes:
 
 | Componente             |  Quantidade   | Especificações    | Valor Unitário |
@@ -27,34 +26,32 @@ fonte reficadora capaz de transformar corrente alternada de tensão, em corrente
 
 
 
-
-
 ## Sobre os componentes
-### Transformador:
+#### Transformador:
 A fonte de corrente alternada (tomada) fornece uma ddp de 127V, por isso é necessário o uso do transformador que é capaz de baixar a tensão de 110 volts para 12 volts.
 
-### Fusível:
+#### Fusível:
 O fusível é usado com o intuito de "proteger" o circuito de correntes elétricas excessivas, visto que se houver sobrecarga, ele irá interromper o circuito.
 
-### Ponte de diodos:
+#### Ponte de diodos:
 Formada por quatro diodos retificadores, é responsável por permitir que uma corrente alternada seja convertida em corrente contínua.
 
-### Varistor:
+#### Varistor:
 Também usado para maior segurança ao circuito, pois quando uma tensão excessiva é aplicada ao varistor, sua resistência diminui rapidamente, permitindo que ele conduza a corrente elétrica e desvie a energia extra para a terra ou para a fonte de alimentação.
 
-### Capacitor:
+#### Capacitor:
 Responsável por controlar a ondulação da tensão no circuito, durante a alternância dos ciclos de corrente elétrica, o capacitor armazena energia (quando a tensão está alta) e libera quando a tensão cai.
 
-### Resistor:
+##### Resistor:
 O resistor limita o fluxo de corrente elétrica em um circuito, impedindo que a corrente ultrapasse o limite estabelecido por cada componente.
 
-### Diodo Zener:
+##### Diodo Zener:
 Se comporta como um diodo normal, porém quando a tensão excede a tensão Zener, ele deixará "passar" somente a tensão limite, que no caso será 12V.
 
-### Transistor:
+#### Transistor:
 O transistor tem capacidade de controle da intensidade da corrente elétrica que passa por ele, sendo capaz de limitá-la, amplificá-la ou, até mesmo, atenuá-la.
 
-### Potenciômetro:
+#### Potenciômetro:
 É um tipo de resistor que permite controlar a tensão entre 3 a 12V, no nosso caso.
 
 
