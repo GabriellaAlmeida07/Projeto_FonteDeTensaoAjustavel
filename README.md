@@ -26,7 +26,7 @@ fonte reficadora capaz de transformar corrente alternada de tensão, em corrente
 
 
 ## Circuito Falstad
-[Link circuito Falstad](https://tinyurl.com/2bdvvonj)
+[Circuito Falstad](https://tinyurl.com/2bdvvonj)
 ![circuito](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/d42b11c0-0516-4a29-bf5d-487cf6339651)
 
 
