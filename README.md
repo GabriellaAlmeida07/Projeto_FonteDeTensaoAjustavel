@@ -42,10 +42,10 @@ Também usado para maior segurança ao circuito, pois quando uma tensão excessi
 #### Capacitor:
 Responsável por controlar a ondulação da tensão no circuito, durante a alternância dos ciclos de corrente elétrica, o capacitor armazena energia (quando a tensão está alta) e libera quando a tensão cai.
 
-##### Resistor:
+#### Resistor:
 O resistor limita o fluxo de corrente elétrica em um circuito, impedindo que a corrente ultrapasse o limite estabelecido por cada componente.
 
-##### Diodo Zener:
+#### Diodo Zener:
 Se comporta como um diodo normal, porém quando a tensão excede a tensão Zener, ele deixará "passar" somente a tensão limite, que no caso será 12V.
 
 #### Transistor:
@@ -56,7 +56,8 @@ O transistor tem capacidade de controle da intensidade da corrente elétrica que
 
 
 
-## Incluir foto do circuito na protoboard
+## Foto do circuito na protoboard
+![129abf9e-d76e-49bf-9854-68b298c28217](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/87d2040e-0971-4d20-8382-b70e0894a6c2)
 
 
 
