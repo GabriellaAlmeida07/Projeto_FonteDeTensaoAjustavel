@@ -6,7 +6,7 @@ fonte reficadora capaz de transformar corrente alternada de tensão, em corrente
 ## Componentes:
 
 | Componente             |  Quantidade   | Especificações    | Valor Unit |
-| -------------          |:-------------:| -----            :|---   --:   |
+|:----------------------:|:-------------:|:-----------------:|:----------:|
 | Diodo Retificador      | 5             | 1N4007 LGE=1N4004 | R$ 0,20    |
 | Capacitor Elco         | 1             | 680UFX25V         | R$ 5,80    |
 | LED                    | 2             | 5mm 333-2SDRD     | R$ 0,50    |
