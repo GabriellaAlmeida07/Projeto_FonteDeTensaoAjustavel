@@ -82,8 +82,11 @@ O transistor tem capacidade de controle da intensidade da corrente elétrica que
 
 ## Cálculos
 Queremos um Ripple pequeno (10%), e por isso é possível utilizar a fórmula simplificada C = i / (f * v) * ripple.
+
 Seguindo o simulador Falstad, encontramos a tensão após a ponte de diodos de aproximadamente 18.18V e a corrente depois do capacitor de aproximadamente 120mA.
+
 Sabemos que a fonte possui uma corrente alternada de 60Hz, daí obtemos f a partir de 2 * 60 = 120Hz, então basta aplicar a fórmula sobre os valores encontrados.
+
 O resultado desta operação foi de 550uF, porém preferimos comprar um capacitor de 680uF (o segundo valor comercial mais próximo), por segurança.
 
 
