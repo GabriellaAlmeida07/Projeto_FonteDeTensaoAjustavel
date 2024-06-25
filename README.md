@@ -93,7 +93,8 @@ O resultado desta operação foi de 550uF, porém preferimos comprar um capacito
 
 
 ## Vídeo do projeto
-file:///home/gabi/Downloads/WhatsApp%20Video%202024-06-25%20at%2014.51.16.mp4
+<a href="https://www.youtube.com/watch?v=ilnHDa892N0" target="_blank"><img src="[http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/ea2e4989-63bd-460b-b91c-3a33d5fd2e88)" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 ## Colaboradoes:
