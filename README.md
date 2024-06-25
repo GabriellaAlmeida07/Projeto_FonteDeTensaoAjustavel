@@ -56,7 +56,7 @@ O transistor tem capacidade de controle da intensidade da corrente elétrica que
 
 
 
-## Foto do circuito na protoboard
+## Fotos do circuito na protoboard
 
 ![f5c56527-f483-4b29-b497-7117711fcc6f](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/586c00af-1137-4ef8-8135-badcd054a8c8)
 
