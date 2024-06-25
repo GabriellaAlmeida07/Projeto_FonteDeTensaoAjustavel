@@ -57,8 +57,10 @@ O transistor tem capacidade de controle da intensidade da corrente elétrica que
 
 
 ## Foto do circuito na protoboard
-![129abf9e-d76e-49bf-9854-68b298c28217](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/87d2040e-0971-4d20-8382-b70e0894a6c2)
 
+![f5c56527-f483-4b29-b497-7117711fcc6f](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/586c00af-1137-4ef8-8135-badcd054a8c8)
+
+![b0ad6359-cd21-43d9-9d8b-161e95a4ce8e](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/00809375-4016-438e-a1ba-d3aabf90693f)
 
 
 ## Circuito Falstad
@@ -90,7 +92,8 @@ Sabemos que a fonte possui uma corrente alternada de 60Hz, daí obtemos f a part
 O resultado desta operação foi de 550uF, porém preferimos comprar um capacitor de 680uF (o segundo valor comercial mais próximo), por segurança.
 
 
-## Incluir o video
+## Vídeo do projeto
+file:///home/gabi/Downloads/WhatsApp%20Video%202024-06-25%20at%2014.51.16.mp4
 
 
 ## Colaboradoes:
