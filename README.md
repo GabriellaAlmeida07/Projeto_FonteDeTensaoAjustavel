@@ -55,19 +55,16 @@ O transistor tem capacidade de controle da intensidade da corrente elétrica que
 É um tipo de resistor que permite controlar a tensão entre 3 a 12V, no nosso caso.
 
 
-
 ## Fotos do circuito na protoboard
+![2db8313d-9aef-4dc3-9cda-20fbeb00f63c](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/dde24c35-ba9f-4913-b386-a82c9700a2bf)
 
-![f5c56527-f483-4b29-b497-7117711fcc6f](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/586c00af-1137-4ef8-8135-badcd054a8c8)
-
-![b0ad6359-cd21-43d9-9d8b-161e95a4ce8e](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/00809375-4016-438e-a1ba-d3aabf90693f)
+![5edc806d-a50e-4728-a3e1-ea7236ce99d1](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/5375cc83-dd17-4652-a18e-ce20cc00d32c)
 
 
 ## Circuito Falstad
-[Circuito Falstad](https://tinyurl.com/2bdvvonj)
-![circuito](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/d42b11c0-0516-4a29-bf5d-487cf6339651)
+[Circuito Falstad](https://tinyurl.com/2gfmwb9f)
 
-
+![Captura de tela de 2024-06-26 18-35-03](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/f7a6e8ca-1972-4801-b328-6e293aa46f53)
 
 
 ## Projeto do Esquemático EAGLE
@@ -94,7 +91,7 @@ O resultado desta operação foi de 550uF, porém preferimos comprar um capacito
 
 ## Vídeo do projeto
 
-[![Captura de tela de 2024-06-25 19-09-15](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/8619de68-edba-44bf-a278-fa176b9cab9a)](https://www.youtube.com/watch?v=ilnHDa892N0)
+[![Captura de tela de 2024-06-25 19-09-15](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/8619de68-edba-44bf-a278-fa176b9cab9a)](https://youtube.com/shorts/gmYSijptPVI?feature=share)
 
 
 ## Colaboradoes:
