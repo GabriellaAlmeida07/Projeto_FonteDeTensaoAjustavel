@@ -91,7 +91,7 @@ O resultado desta operação foi de 550uF, porém preferimos comprar um capacito
 
 ## Vídeo do projeto
 
-[![Captura de tela de 2024-06-25 19-09-15](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/8619de68-edba-44bf-a278-fa176b9cab9a)](https://youtube.com/shorts/gmYSijptPVI?feature=share)
+[![Captura de tela de 2024-06-26 18-40-31](https://github.com/GabriellaAlmeida07/Projeto_FonteDeTensaoAjustavel/assets/135055000/6a0d93af-3fb1-45c2-8d67-d8f7d5a2bb25)](https://youtube.com/shorts/gmYSijptPVI?feature=share)
 
 
 ## Colaboradoes:
