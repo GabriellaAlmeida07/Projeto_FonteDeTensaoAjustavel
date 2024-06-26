@@ -1,4 +1,4 @@
-# Projeto_FonteDeTensaoAjustavel
+# Projeto_FonteDeTensaoAjustável
 ## Descrição:
 Projeto da disciplina SSC0180 - Eletrônica para Computação, ministrada pelo professor Eduardo do Valle Simoes, com o objetivo de projetar uma
 fonte reficadora capaz de transformar corrente alternada de tensão, em corrente contínua, com valor de tensão ajustável entre 3 e 12 volts.
